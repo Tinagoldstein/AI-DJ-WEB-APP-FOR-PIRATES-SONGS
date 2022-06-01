@@ -1,0 +1,19 @@
+body {
+    background-size:cover;
+}
+
+.heading {
+    width:100%;
+    font-size:15px;
+    margin:0px;
+    font-family:cursive;
+    font-style:italic;
+    font-weight:bolder;
+}
+
+canvas{
+    background-color:lightgoldenrodyellow;
+    border:5px solid brown;
+    border-radius:20px;
+    
+}
